@@ -25,5 +25,5 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/my-website.git
+   git clone https://github.com/tejaswini497/mainflow-task2.git
 2. Open the index.html file in your preferred web browser to view the website.
